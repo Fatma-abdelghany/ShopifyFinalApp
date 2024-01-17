@@ -1,0 +1,40 @@
+com.app.shopify.app-lifecycle-livedata-2.6.1-0 /Users/fatma/.gradle/caches/transforms-3/0509dc832fc519dfc3a25dd812c0469a/transformed/lifecycle-livedata-2.6.1/res
+com.app.shopify.app-lifecycle-livedata-core-2.6.1-1 /Users/fatma/.gradle/caches/transforms-3/188703e2b4931c457f3f867aa51c03d3/transformed/lifecycle-livedata-core-2.6.1/res
+com.app.shopify.app-jetified-window-1.0.0-beta04-2 /Users/fatma/.gradle/caches/transforms-3/18aed9bf87fc054bde2369bbce815f68/transformed/jetified-window-1.0.0-beta04/res
+com.app.shopify.app-jetified-startup-runtime-1.1.1-3 /Users/fatma/.gradle/caches/transforms-3/267c0ab446b12554a95dc09a73fdd056/transformed/jetified-startup-runtime-1.1.1/res
+com.app.shopify.app-browser-1.4.0-4 /Users/fatma/.gradle/caches/transforms-3/3d4b5db11bf2fad537013066bd937ed1/transformed/browser-1.4.0/res
+com.app.shopify.app-lifecycle-viewmodel-2.6.1-5 /Users/fatma/.gradle/caches/transforms-3/669d250c3f529ace8e9de328aec2d586/transformed/lifecycle-viewmodel-2.6.1/res
+com.app.shopify.app-jetified-savedstate-1.2.1-6 /Users/fatma/.gradle/caches/transforms-3/7fcbd044cb1c636f9a63f4be39b67a45/transformed/jetified-savedstate-1.2.1/res
+com.app.shopify.app-jetified-profileinstaller-1.3.0-7 /Users/fatma/.gradle/caches/transforms-3/8b88e7c122a064b104ffe866a25b971f/transformed/jetified-profileinstaller-1.3.0/res
+com.app.shopify.app-jetified-play-services-basement-18.1.0-8 /Users/fatma/.gradle/caches/transforms-3/98537e5ec70bbb9b95a3c4905239e936/transformed/jetified-play-services-basement-18.1.0/res
+com.app.shopify.app-jetified-annotation-experimental-1.3.0-9 /Users/fatma/.gradle/caches/transforms-3/a3005bc186290fc9f7ac9e2ce541512a/transformed/jetified-annotation-experimental-1.3.0/res
+com.app.shopify.app-localbroadcastmanager-1.1.0-10 /Users/fatma/.gradle/caches/transforms-3/a4a5d5ebf4c0231bde35c244ff00e744/transformed/localbroadcastmanager-1.1.0/res
+com.app.shopify.app-jetified-firebase-messaging-23.3.1-11 /Users/fatma/.gradle/caches/transforms-3/a6e0cd5611717413bd86fc8664764889/transformed/jetified-firebase-messaging-23.3.1/res
+com.app.shopify.app-jetified-firebase-common-20.4.2-12 /Users/fatma/.gradle/caches/transforms-3/b29de336eedfa9390b65176ca920839a/transformed/jetified-firebase-common-20.4.2/res
+com.app.shopify.app-jetified-window-java-1.0.0-beta04-13 /Users/fatma/.gradle/caches/transforms-3/c432125e31208403c91c32696aef3709/transformed/jetified-window-java-1.0.0-beta04/res
+com.app.shopify.app-jetified-core-ktx-1.10.1-14 /Users/fatma/.gradle/caches/transforms-3/c70a764304160d0e8692b9ab782ec185/transformed/jetified-core-ktx-1.10.1/res
+com.app.shopify.app-core-1.10.1-15 /Users/fatma/.gradle/caches/transforms-3/d2bdb852b4afb82627ab30e2565a0334/transformed/core-1.10.1/res
+com.app.shopify.app-core-runtime-2.2.0-16 /Users/fatma/.gradle/caches/transforms-3/d6c672cfa2a46910f38e5eb8099c347b/transformed/core-runtime-2.2.0/res
+com.app.shopify.app-lifecycle-runtime-2.6.1-17 /Users/fatma/.gradle/caches/transforms-3/dfc686fa09f5d6b6b0a6c8d43fee44ef/transformed/lifecycle-runtime-2.6.1/res
+com.app.shopify.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-18 /Users/fatma/.gradle/caches/transforms-3/e10d3acb5d41cb0fa1995ebe478b50c4/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/res
+com.app.shopify.app-jetified-activity-1.7.2-19 /Users/fatma/.gradle/caches/transforms-3/e6ee209e2919e8bff435c0ee5bbc10f3/transformed/jetified-activity-1.7.2/res
+com.app.shopify.app-jetified-play-services-base-18.0.1-20 /Users/fatma/.gradle/caches/transforms-3/f46872f19fc48f4d97e8ffc9ee9d6807/transformed/jetified-play-services-base-18.0.1/res
+com.app.shopify.app-debug-21 /Users/fatma/Documents/FlutterCourse/myprojects/final project/shopify v12/android/app/src/debug/res
+com.app.shopify.app-main-22 /Users/fatma/Documents/FlutterCourse/myprojects/final project/shopify v12/android/app/src/main/res
+com.app.shopify.app-pngs-23 /Users/fatma/Documents/FlutterCourse/myprojects/final project/shopify v12/build/app/generated/res/pngs/debug
+com.app.shopify.app-resValues-24 /Users/fatma/Documents/FlutterCourse/myprojects/final project/shopify v12/build/app/generated/res/resValues/debug
+com.app.shopify.app-rs-25 /Users/fatma/Documents/FlutterCourse/myprojects/final project/shopify v12/build/app/generated/res/rs/debug
+com.app.shopify.app-mergeDebugResources-26 /Users/fatma/Documents/FlutterCourse/myprojects/final project/shopify v12/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.app.shopify.app-mergeDebugResources-27 /Users/fatma/Documents/FlutterCourse/myprojects/final project/shopify v12/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.app.shopify.app-merged_res-28 /Users/fatma/Documents/FlutterCourse/myprojects/final project/shopify v12/build/app/intermediates/merged_res/debug
+com.app.shopify.app-packaged_res-29 /Users/fatma/Documents/FlutterCourse/myprojects/final project/shopify v12/build/cloud_firestore/intermediates/packaged_res/debug
+com.app.shopify.app-packaged_res-30 /Users/fatma/Documents/FlutterCourse/myprojects/final project/shopify v12/build/firebase_auth/intermediates/packaged_res/debug
+com.app.shopify.app-packaged_res-31 /Users/fatma/Documents/FlutterCourse/myprojects/final project/shopify v12/build/firebase_core/intermediates/packaged_res/debug
+com.app.shopify.app-packaged_res-32 /Users/fatma/Documents/FlutterCourse/myprojects/final project/shopify v12/build/firebase_messaging/intermediates/packaged_res/debug
+com.app.shopify.app-packaged_res-33 /Users/fatma/Documents/FlutterCourse/myprojects/final project/shopify v12/build/firebase_storage/intermediates/packaged_res/debug
+com.app.shopify.app-packaged_res-34 /Users/fatma/Documents/FlutterCourse/myprojects/final project/shopify v12/build/flutter_keyboard_visibility/intermediates/packaged_res/debug
+com.app.shopify.app-packaged_res-35 /Users/fatma/Documents/FlutterCourse/myprojects/final project/shopify v12/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/debug
+com.app.shopify.app-packaged_res-36 /Users/fatma/Documents/FlutterCourse/myprojects/final project/shopify v12/build/image_picker_android/intermediates/packaged_res/debug
+com.app.shopify.app-packaged_res-37 /Users/fatma/Documents/FlutterCourse/myprojects/final project/shopify v12/build/path_provider_android/intermediates/packaged_res/debug
+com.app.shopify.app-packaged_res-38 /Users/fatma/Documents/FlutterCourse/myprojects/final project/shopify v12/build/shared_preferences_android/intermediates/packaged_res/debug
+com.app.shopify.app-packaged_res-39 /Users/fatma/Documents/FlutterCourse/myprojects/final project/shopify v12/build/sqflite/intermediates/packaged_res/debug

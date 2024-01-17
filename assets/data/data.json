@@ -1,0 +1,63 @@
+{
+  "products" : [
+    {
+        "id" : "1",
+        "name" : "Ankle Boots",
+        "categoryId" : "1",
+        "description" : "good material",
+        "price" : 20,
+        "quantity" : 12
+    },
+    {
+        "id" : "2",
+        "name" : "shoes",
+        "categoryId" : "1",
+        "description" : "good material",
+        "price" : 33,
+        "quantity" : 5
+    },
+
+    {
+      "id" : "3",
+      "name" : "bag",
+      "categoryId" : "1",
+      "description" : "good material",
+      "price" : 20,
+      "quantity" : 12
+    }
+  ],
+  "categories" : [
+    {
+        "id" : "1",
+        "title" : "new clothes",
+        "description" : "clother Category"
+    },
+    {
+        "id" : "2",
+        "title" : "Assets",
+        "description" : "assets Category"
+    }
+    ],
+  "Ads": [
+    {
+      "id": "1",
+      "title": "For all your summer clothing needs",
+      "image": "https://m.media-amazon.com/images/I/61U-R3-znNL._AC_UL320_.jpg"
+    },
+    {
+      "id": "2",
+      "title": "For all your summer clothing needs",
+      "image": "https://m.media-amazon.com/images/I/81S-ekaE+vS._AC_UL320_.jpg"
+    },
+    {
+      "id": "3",
+      "title": "For all your summer clothing needs",
+      "image": "https://m.media-amazon.com/images/I/61hMQOHmEIL._AC_UL320_.jpg"
+    },
+    {
+      "id": "4",
+      "title": "For all your summer clothing needs",
+      "image": "https://m.media-amazon.com/images/I/81b9Eh286BL._AC_UL320_.jpg"
+    }
+  ]
+}

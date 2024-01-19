@@ -16,3 +16,5 @@
 ![photo_2024-01-18_22-32-48](https://github.com/Fatma-abdelghany/ShopifyFinalApp/assets/143908737/2a42c8cb-6e33-4d20-b212-9b404432df0a)
 ![photo_2024-01-18_22-32-52](https://github.com/Fatma-abdelghany/ShopifyFinalApp/assets/143908737/e03169fd-9d0f-4c11-bad5-926ea9bc6853)
 ![photo_2024-01-18_22-38-57](https://github.com/Fatma-abdelghany/ShopifyFinalApp/assets/143908737/ea0d68eb-cc45-40ad-a4f7-9a8813ca5fba)
+
+<img width="650" alt="onboard" src="https://github.com/Fatma-abdelghany/ShopifyFinalApp/assets/143908737/71276b46-c3cb-477c-8470-1ed2a1090f85">
